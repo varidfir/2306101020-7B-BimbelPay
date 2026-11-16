@@ -56,7 +56,7 @@ Untuk menjalankan aplikasi ini, diperlukan beberapa perangkat lunak dan komponen
 
 1. Clone repository dari GitHub:
 
-   git clone [URL_REPOSITORY_GITHUB]
+   git clone https://github.com/varidfir/2306101020-7B-BimbelPay.git 
 
 2. Buka Android Studio.
 3. Pilih **Open**, kemudian pilih folder repository yang sudah di-clone.
