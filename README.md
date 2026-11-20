@@ -68,7 +68,7 @@ Untuk menjalankan aplikasi ini, diperlukan beberapa perangkat lunak dan komponen
 
 Dokumentasi tampilan aplikasi disimpan pada folder:
 screenshot 
-
+https://github.com/varidfir/2306101020-7B-BimbelPay/tree/1836f2f029415026cecba2f0db29d507a5efafe9/screenshot 
 
 ## File APK
 
