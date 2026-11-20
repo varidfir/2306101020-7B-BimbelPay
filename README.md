@@ -67,6 +67,7 @@ Untuk menjalankan aplikasi ini, diperlukan beberapa perangkat lunak dan komponen
 ## Screenshot Hasil Implementasi
 
 Dokumentasi tampilan aplikasi disimpan pada folder:
+screenshot 
 
 
 ## File APK
