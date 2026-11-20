@@ -71,7 +71,7 @@ Dokumentasi tampilan aplikasi disimpan pada folder:
 
 ## File APK
 - [FOLDER CLASS](https://github.com/varidfir/2306101020-7B-BimbelPay/tree/9b124203ff22d0f9c541ca65dacd8679b79e5a10/app/src/main/java/com/example/bimbelpay)
-- [FOLDER LAYOUT]
+- [FOLDER LAYOUT](https://github.com/varidfir/2306101020-7B-BimbelPay/tree/f49d02d2e38400994459b861246e2172cab57ba3/app/src/main/res/layout)
 
 
 ## Referensi
